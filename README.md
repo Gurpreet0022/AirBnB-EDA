@@ -16,7 +16,7 @@ Airbnb is one of the most popular platforms for booking vacation rentals. Analyz
 
 ## Dataset  
 The dataset used for this project can be downloaded from the following link:  
-[Download Airbnb Booking Open Dataset](https://drive.google.com/file/d/your-dataset-link/view?usp=sharing)  
+[Download Airbnb Booking Open Dataset](https://www.kaggle.com/datasets/sudhanshugosain/kagglecomdatasetssudhanshugosain69)  
 
 
 ### Dataset Features  
